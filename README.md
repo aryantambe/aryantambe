@@ -16,6 +16,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aryantambe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href=#><img src="/others/contributions.svg"></a>
+<a href=#><img src="/contributions.svg"></a>
 
 Let’s code something awesome! 💻✨
