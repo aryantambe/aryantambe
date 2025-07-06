@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 About Me: <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Solve.+Repeat.;Always%20learning%20something%20new;&center=true&width=500&height=45">
+</p>
 👋 Hey there, I'm Aryan Tambe 🚀 Passionate Web Developer | 🌐 MERN Stack Explorer | 💡 Always Building Cool Stuff<br><br>I'm a Computer Science student who loves turning ideas into real-world projects. From crafting responsive UIs to setting up robust backends — I enjoy every part of the dev journey. Currently diving deep into PostgreSQL, cloud, and full-stack development.<br><br>🛠 Tech I work with: Java,JavaScript, React, Node.js, Express, MongoDB, PostgreSQL 
 📌 I believe in clean code, constant learning, and building things that matter.
 
